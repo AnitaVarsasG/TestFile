@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 16 09:52:10 GMT 2023","Tue May 16 09:52:19 GMT 2023","9082","","org.example.DataListFilterPageTest","","org.example.DataListFilterPageTest","testGetNames","testGetNames()",""
+"passed","Tue May 16 09:52:32 GMT 2023","Tue May 16 09:52:35 GMT 2023","2586","","org.example.PaginationTest","","org.example.PaginationTest","getNumberTest","getNumberTest()",""
+"broken","Tue May 16 09:52:19 GMT 2023","Tue May 16 09:52:32 GMT 2023","13081","","org.example.BootstrapDownloadTest","","org.example.BootstrapDownloadTest","downloadProgressTest","downloadProgressTest()",""
